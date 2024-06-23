@@ -1,0 +1,4 @@
+[22-06-2024 19:03:57.789 INFO com.vmo.demoWebShop.helper.Log] - Step: Open Demo Web Shop
+[22-06-2024 19:03:59.326 INFO com.vmo.demoWebShop.helper.Log] - Step: Verify Title 
+[22-06-2024 19:04:03.126 INFO com.vmo.demoWebShop.helper.Log] - Step: Click on Books tag
+[22-06-2024 19:04:04.755 INFO com.vmo.demoWebShop.helper.Log] - Step: Buy 2 books highest rated

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Final Assignment">
+    <test name="Final Assignment">
+        <parameter name="browser" value="CHROME"></parameter>
+        <parameter name="modeRun" value="LOCAL"></parameter>
+        <classes>
+            <class name="com.vmo.demoWebShop.features.LoginTest"></class>
+<!--            <class name="com.vmo.demoWebShop.features.BuyItemsTest"></class>-->
+        </classes>
+    </test>
+</suite>
