@@ -29,7 +29,7 @@ public class ExcelConfig {
 
     public ExcelConfig() {
         try {
-            File file = new File("F:\\Mine\\Automation\\assignment.xlsx");
+            File file = new File("src/main/java/com/vmo/demoWebShop/utils/assignment.xlsx");
             fileIn = new FileInputStream(file);
             wb = new XSSFWorkbook(fileIn);
         } catch (Exception e) {

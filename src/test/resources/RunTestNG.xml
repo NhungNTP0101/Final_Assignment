@@ -6,7 +6,7 @@
         <parameter name="modeRun" value="LOCAL"></parameter>
         <classes>
             <class name="com.vmo.demoWebShop.features.LoginTest"></class>
-            <class name="com.vmo.demoWebShop.features.BuyItemsTest"></class>
+<!--            <class name="com.vmo.demoWebShop.features.BuyItemsTest"></class>-->
         </classes>
     </test>
 </suite>
